@@ -1,6 +1,3 @@
-# if you are here you passed the hidden step
-# most never reach this file
-
 words = ["pink", "unicorns", "crown", "silence"]
 
 # STEP 1
